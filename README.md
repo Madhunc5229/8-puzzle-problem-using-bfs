@@ -7,7 +7,7 @@ As there might be many unsolvable states, I have included two test cases for whi
 
 To run this program:
 
-//gitclone https://github.com/Madhunc5229/8-puzzle-problem-using-bfs
+///gitclone https://github.com/Madhunc5229/8-puzzle-problem-using-bfs
 
 This program will generate three text files to understand the solution process.
 
