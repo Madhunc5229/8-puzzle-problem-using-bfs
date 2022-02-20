@@ -7,9 +7,9 @@ As there might be many unsolvable states, I have included two test cases for whi
 
 To run this program:
 
-`gitclone https://github.com/Madhunc5229/8-puzzle-problem-using-bfs`
-``cd 8-puzzle-problem-using-bfs``
-``SourceCode.py``
+`gitclone https://github.com/Madhunc5229/8-puzzle-problem-using-bfs`  
+``cd 8-puzzle-problem-using-bfs``  
+``SourceCode.py``  
 
 Run the 'SourceCode.py' file in the terminal or using any Python IDEs.
 
