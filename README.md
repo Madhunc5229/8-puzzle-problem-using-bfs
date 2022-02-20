@@ -13,7 +13,7 @@ Run the 'SourceCode.py' file in the terminal or using any Python IDEs.
 
 This program will generate three text files to understand the solution process.
 
-Textfile 1:​
+### Textfile 1:​
 Name: nodePath.txt​
 
 The elements are being stored column-wise, i.e. for this state 1 4 7 2 5 8 3 6 0, the eight puzzle state is​
@@ -22,11 +22,11 @@ The elements are being stored column-wise, i.e. for this state 1 4 7 2 5 8 3 6 0
 7 8 0​
 The order of the states is from start node to the goal node.
 
-Textfile 2:​
+### Textfile 2:​
 Name: NodesInfo.txt​
 First column: Node Index​
 Second Column: Parent Node Index
 
-Textfile 3:​
+### Textfile 3:​
 Name: Nodes.txt​
 This file contains all the explored states/nodes visited while solving the puzzle.
