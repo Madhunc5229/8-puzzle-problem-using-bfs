@@ -31,3 +31,8 @@ Second Column: Parent Node Index
 ### Textfile 3:​
 Name: Nodes.txt​
 This file contains all the explored states/nodes visited while solving the puzzle.
+
+### Vizualization of solution
+The file 'plot_path.py' will print all the steps taken to reach the goal state.
+Run this file after the source code has finished running as this program takes the text file (nodePath.txt) as the input.
+``plot_path.py``
