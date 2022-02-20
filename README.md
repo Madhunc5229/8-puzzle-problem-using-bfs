@@ -17,11 +17,11 @@ This program will generate three text files to understand the solution process.
 ### Textfile 1:​
 Name: nodePath.txt​
 
-The elements are being stored column-wise, i.e. for this state 1 4 7 2 5 8 3 6 0, the eight puzzle state is​
-1 2 3​
-4 5 6​
-7 8 0​
-The order of the states is from start node to the goal node.
+The elements are being stored column-wise, i.e. for this state 1 4 7 2 5 8 3 6 0, the eight puzzle state is​  
+1 2 3​  
+4 5 6​  
+7 8 0​  
+The order of the states is from start node to the goal node.  
 
 ### Textfile 2:​
 Name: NodesInfo.txt​
