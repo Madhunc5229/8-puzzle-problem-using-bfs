@@ -11,7 +11,6 @@ To run this program:
 ``cd 8-puzzle-problem-using-bfs``  
 ``SourceCode.py``  
 
-Run the 'SourceCode.py' file in the terminal or using any Python IDEs.
 
 This program will generate three text files to understand the solution process.
 
